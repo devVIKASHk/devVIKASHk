@@ -1,14 +1,14 @@
-# Hello there! 👋 ,I am Vikash Kumar.
-Welcome to my GitHub profile!
+# Hello there! 👋 ,I am Vikash Kumar.<br>
+Welcome to my GitHub profile! <br>
 
-**About Me:**
-💻 Currently learning Web Development and Design.
-📚 Programming language that i know are HTML,CSS,Python and JS.
-📧 Contact me at: "sahnivikash194@gmail.com".
+**About Me:**<br>
+💻 Currently learning Web Development and Design.<br>
+📚 Programming language that i know are HTML,CSS,Python and JS.<br>
+📧 Contact me at: "sahnivikash194@gmail.com".<br>
 
-##Skills 🚀 ##
-💻 Programming:Python and JS.
-🌐 Web Dev:HTML,CSS,JS.
-⚡ Misc: Git and github
+##Skills 🚀 ##<br>
+💻 Programming:Python and JS.<br>
+🌐 Web Dev:HTML,CSS,JS.<br>
+⚡ Misc: Git and github. 
 
 
