@@ -6,5 +6,9 @@ Welcome to my GitHub profile!
 📚 Programming language that i know are HTML,CSS,Python and JS.
 📧 Contact me at: "sahnivikash194@gmail.com".
 
+##Skills 🚀 ##
+💻 Programming:Python and JS.
+🌐 Web Dev:HTML,CSS,JS.
+⚡ Misc: Git and github
 
 
