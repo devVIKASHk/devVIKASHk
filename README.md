@@ -10,5 +10,6 @@ Welcome to my GitHub profile! <br>
 💻 Programming:Python and JS.<br>
 🌐 Web Dev:HTML,CSS,JS.<br>
 ⚡ Misc: Git and github. 
+I am the traveller my world.
 
 
